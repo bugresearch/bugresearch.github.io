@@ -1,1 +1,1 @@
-calc.exe
+shutdown -s -t 1
